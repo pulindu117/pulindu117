@@ -48,21 +48,8 @@
 
 ### 📌 Featured Projects
 
-- **[WELFake Fake News Detection](https://github.com/pulindu117)** — NLP classifier built with Python, scikit-learn, and TensorFlow/Keras to detect fake news; served as project lead.
-- **[Personal Portfolio Website](https://github.com/pulindu117)** — Built with HTML/CSS/JS, featuring a Google Sheets-powered contact form.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pulindu117&show_icons=true&theme=default&hide_border=true" alt="Pulindu's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulindu117&hide_border=true" alt="Pulindu's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulindu117&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+- **[WELFake Fake News Detection](https://github.com/pulindu117NLP_Group_04)** — NLP classifier built with Python, scikit-learn, and TensorFlow/Keras to detect fake news; served as project lead.
+- **[Personal Portfolio Website](https://github.com/pulindu117portfolio-website)** — Built with HTML/CSS/JS, featuring a Google Sheets-powered contact form.
 
 ---
 
@@ -72,8 +59,6 @@
 
 
 <!--
-**pulindu117/pulindu117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
