@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/pulindu117">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/pulindu117/portfolio-website">
+  <a href="https://pulindu117.github.io/portfolio-website/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
